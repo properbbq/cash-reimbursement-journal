@@ -1,0 +1,15 @@
+{
+ "v": 1,
+ "requests": {
+  "repo": "properbbq/cash-reimbursement-journal-maker",
+  "key": "BGks5lAEIb69GecVAPtNEbmimkp6Rlrb3yLMSZR2DNgPINl6AT-qkRHRDIqjgLFOKT62WsR3O6PGC5AYsopc-CA"
+ },
+ "users": {
+  "7c72563fe78444c19c43ba38cf557e9ab97efc61dac02544d48b665a123278b7": {
+   "iterations": 600000,
+   "key": "n2tXMe4Tv-c2Jss3.T4NoIBbT1ZbOm7SYWhYERUUVkCJFJbbkLnq9SAQR-IyxIX0CgVwlnrPjAaJwWHZL",
+   "salt": "ZI+vTN+GHZyGC1o6svCDtg==",
+   "profile": "Y9o9hScgd8-1GF8k.KHoUzf3a41SOIJRi4kbyEMcNaVtyCDphNAzW5YNqZq-qM5OWLMsXdiM2qXIEfEaK0EpwXoTj9NpOs7kD26YBwfk4uQ6IKbKp5MR4lD4WpCMnwxuG8HIlJuzczE9kKLQxttosuhUJF9jEj8Yv5AtY6MnnYVTi3cXMShS59Hj_HP1-ORedyowunbwwL8pmZBfGiWzJ-Q"
+  }
+ }
+}
